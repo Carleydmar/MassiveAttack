@@ -27,7 +27,7 @@ h1{
 }
 
 .btn:hover{
-    background-colo: #ccc;
+    background-color: #ccc;
     color: #333;
     cursor: pointer;
 }
